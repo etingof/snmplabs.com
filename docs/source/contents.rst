@@ -38,6 +38,14 @@ You will notice that momentarily!
    hostile network by putting this proxy tool in front of it and only
    expose cryptographically sound SNMPv3 to the world.
 
+.. _snmpclitools:
+
+* `Command-line SNMP tools <http://snmplabs.com/snmpclitools>`_
+
+   The collection of command-line SNMP tools written in pure-Python
+   and tightly aligned with the de-facto standard SNMP tools that come
+   with Net-SNMP e.g. snmpget, snmpwalk and many others.
+
 .. _pysnmp:
 
 * `SNMP library for Python <http://snmplabs.com/pysnmp/>`_
