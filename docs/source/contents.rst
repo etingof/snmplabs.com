@@ -38,6 +38,17 @@ You will notice that momentarily!
    hostile network by putting this proxy tool in front of it and only
    expose cryptographically sound SNMPv3 to the world.
 
+.. _snmpresponder:
+
+* `SNMP Command Responder <http://snmplabs.com/snmpresponder>`_
+
+   The SNMP Command Responder tool is a general purpose, cross-platform,
+   extendable and multi-protocol SNMP agent implementation.
+
+   Users can generate Python code stubs from the ASN.1 MIB files, then
+   populate these stubs with the code linking MIBs to the actual
+   data sources to be managed.
+
 .. _snmpclitools:
 
 * `Command-line SNMP tools <http://snmplabs.com/snmpclitools>`_
