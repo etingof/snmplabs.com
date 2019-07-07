@@ -10,7 +10,7 @@ was virtually no implementation I needed back then. Over time, my initially toy
 projects gained popularity especially in the Telecom spheres.
 
 All my projects are open source and free, anyone can take the code and
-do `anything <license>`_ about it.
+do `anything <http://snmplabs.com/license.html>`_ about it.
 
 To date, the `portfolio <http://snmplabs.com/#our-projects>`_ of my
 SNMP-related libraries and tools has grown beyond the budget of my free
@@ -20,7 +20,7 @@ developed.
 In effort to buy more time for my projects, I'm offering consulting and
 development services to anyone who is looking to:
 
-* bring new features to any of `snmplabs.com <snmplabs.com>`_ projects
+* bring new features to any of `snmplabs.com <http://snmplabs.com/#our-projects>`_ projects
 * priority issue resolution
 * integration with other systems
 
