@@ -88,22 +88,27 @@ You will notice that momentarily!
 Source code
 -----------
 
-Our projects source code is hosted at `GitHub <https://github.com/etingof/>`_.
+Projects source code is hosted on `GitHub <https://github.com/etingof/>`_.
 Everyone is welcome to fork and contribute back!
 
 License
 -------
 
-Our software is distributed under 2-clause BSD License.
+Everyone is welcome to take, use or modify SNMP Labs software for whatever
+purpose.
 
 .. toctree::
    :maxdepth: 2
 
    /license
 
-Consulting services
--------------------
+Professional services
+---------------------
 
-Run into a missing feature in our software and consider sponsoring its
-implementation? Lose no time in `getting in touch <mailto:etingof@gmail.com>`_!
-Let's brew some free and open source software together!
+Need help in timely manner? Consider sponsoring feature development or priority
+maintenance of the SNMP Labs projects.
+
+.. toctree::
+   :maxdepth: 2
+
+   /services
