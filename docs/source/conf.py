@@ -46,7 +46,7 @@ master_doc = 'contents'
 
 # General information about the project.
 project = u'snmplabs.com'
-copyright = u'2017, Ilya Etingof'
+copyright = u'2017-2019, Ilya Etingof'
 author = u'Ilya Etingof <etingof@gmail.com>'
 
 # The version info for the project you're documenting, acts as replacement for

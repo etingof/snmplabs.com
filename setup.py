@@ -2,7 +2,7 @@
 #
 # This file is part of the snmplabs.com web-site contents.
 #
-# Copyright (c) 2017, Ilya Etingof <etingof@gmail.com>
+# Copyright (c) 2017-2019, Ilya Etingof <etingof@gmail.com>
 #
 
 from setuptools import setup
