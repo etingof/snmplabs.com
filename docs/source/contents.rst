@@ -89,8 +89,11 @@ You will notice that momentarily!
 Our services
 ------------
 
-* Free on-line :doc:`SNMP agent simulator </snmp-simulation-service>`
-* Contract :doc:`software development and maintenance </software-development-services>` services
+.. toctree::
+   :maxdepth: 2
+
+   /snmp-simulation-service
+   /software-development-services
 
 Source code
 -----------
