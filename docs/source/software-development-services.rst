@@ -1,11 +1,13 @@
 
-Professional services
----------------------
+.. _software-development:
 
-SNMP Labs is a one man show - `I <https://github.com/etingof>`_ stand
+Software development services
+-----------------------------
+
+SNMP Labs is largely a one man show - `I <https://github.com/etingof>`_ stand
 behind everything you can find on this site.
 
-I've started a bunch of SNMP-related projects many years ago just because there
+I started a bunch of SNMP-related projects many years ago just because there
 was virtually no implementation I needed back then. Over time, my initially toy
 projects gained popularity especially in the Telecom spheres.
 
@@ -17,12 +19,12 @@ SNMP-related libraries and tools has grown beyond the budget of my free
 time. I am sort of struggling to keep them well-maintained and further
 developed.
 
-In effort to buy more time for my projects, I'm offering consulting and
-development services to anyone who is looking to:
+In effort to buy more time for my brain children, I'm offering consulting
+and development services to anyone who is looking to:
 
 * bring new features to any of `snmplabs.com <http://snmplabs.com/#our-projects>`_ projects
-* priority issue resolution
-* integration with other systems
+* get priority issues resolution
+* get integration help with other systems
 
 or whatever need comes up.
 

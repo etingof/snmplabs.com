@@ -1,13 +1,14 @@
 
+.. _snmplabs.com:
+
 Welcome to SNMP Laboratories
 ============================
 
 .. toctree::
    :maxdepth: 2
 
-We are a small hobby software development shop aiming at building
-high-quality, free and open source tools primarily in the area of
-network management and monitoring.
+At SNMP Labs, we are aiming at building high-quality, free and open source
+tools primarily in the area of network management and monitoring.
 
 Our projects
 ------------
@@ -85,30 +86,25 @@ You will notice that momentarily!
 
    The pyasn1 library deals with ASN.1 data structures in pure Python.
 
+Our services
+------------
+
+* Free on-line :doc:`SNMP agent simulator </snmp-simulation-service>`
+* Contract :doc:`software development and maintenance </software-development-services>` services
+
 Source code
 -----------
 
 Projects source code is hosted on `GitHub <https://github.com/etingof/>`_.
-Everyone is welcome to fork and contribute back!
+Everyone is welcome to fork, PR or open issues!
 
 License
 -------
 
-Everyone is welcome to take, use or modify SNMP Labs software for whatever
-purpose.
+In essence, everyone is welcome to take, use or modify SNMP Labs software
+for whatever purpose for as long as attribution is retained.
 
 .. toctree::
    :maxdepth: 2
 
    /license
-
-Professional services
----------------------
-
-Need help in timely manner? Consider sponsoring feature development or priority
-maintenance of the SNMP Labs projects.
-
-.. toctree::
-   :maxdepth: 2
-
-   /services
