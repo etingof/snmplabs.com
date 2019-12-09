@@ -93,7 +93,14 @@ Our services
    :maxdepth: 2
 
    /snmp-simulation-service
-   /software-development-services
+
+Our sponsors
+------------
+
+.. toctree::
+   :maxdepth: 2
+
+   /sponsorship
 
 Source code
 -----------
